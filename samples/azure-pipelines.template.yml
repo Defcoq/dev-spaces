@@ -1,4 +1,5 @@
-
+parameters:
+  language: ''
 jobs:
 - job: Build_webfrontend
   pool:
